@@ -13,7 +13,7 @@
 </p>
 
 
-Hello, I am [Abhishek Sinha](https://abhishek-sinha.netlify.app/), a Full stack Developer and Graphic Designer. I am a third year student and currently pursuing B.tech in Computer Science and Engineering from Lovely Professional University. I Enjoy Designing and Developing applications. When I am not coding or pushing pixels, you will find me watching series, reading or going through documentary on cosmology.
+Hello, I am [Abhishek Sinha](https://abhishek-sinha.netlify.app/) :relaxed:, a Full stack Developer and Graphic Designer. I am a third year student and currently pursuing B.tech in Computer Science and Engineering from Lovely Professional University. I Enjoy Designing and Developing applications. When I am not coding or pushing pixels, you will find me watching series, reading or going through documentary on cosmology.
 
 **Let's talk about me:**
 

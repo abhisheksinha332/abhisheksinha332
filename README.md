@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**abhisheksinha332/abhisheksinha332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am [Abhishek Sinha](https://abhishek-sinha.netlify.app/), a Full stack Developer and Graphic Designer. I am a third year student and currently pursuing B.tech in Computer Science and Engineering from Lovely Professional University. I Enjoy Designing and Developing applications. When I am not coding or pushing pixels, you will find me watching series, reading or going through documentary on cosmology.
 
-Here are some ideas to get you started:
+**Let's talk about me:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Messanging Application
+- 🌱 I’m currently learning MERN Stack web development
+- 👯 I’m looking to collaborate on any Wen Development or Graphic Designing Ideas
+- 🤔 I’m looking for help with Firebase knowledge
+- 💬 Ask me about anything, I will be happy to help
+- 📫 How to reach me: [@abhishek-sinha](https://www.linkedin.com/in/abhishek-sinha-5007bb169/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The original Xbox had sound sinppet of real space missions.
+- 📝 [Resume](https://abhishek-sinha.netlify.app/assets/doc/resume1-min.pdf)

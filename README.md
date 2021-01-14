@@ -24,8 +24,8 @@ Hello, I am [Abhishek Sinha](https://abhishek-sinha.netlify.app/) :relaxed:, a F
 - 💬 Ask me about anything, I will be happy to help
 - 📫 How to reach me: [@abhishek-sinha](https://www.linkedin.com/in/abhishek-sinha-5007bb169/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The original Xbox had sound sinppet of real space missions.
-- 📝 [Resume](https://abhishek-sinha.netlify.app/assets/doc/resume1-min.pdf)
+- ⚡ Fun fact: The original Xbox had sound snippet of real space missions.
+- 📝 [Resume](https://abhishek-sinha.netlify.app/assets/doc/abhishek-resume.pdf)
 
 
 ## Languages and Tools:

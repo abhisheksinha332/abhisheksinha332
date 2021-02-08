@@ -19,7 +19,7 @@ Hello, I am [Abhishek Sinha](https://abhishek-sinha.netlify.app/) :relaxed:, a F
 
 - 🔭 I’m currently working on Messanging Application
 - 🌱 I’m currently learning MERN Stack web development
-- 👯 I’m looking to collaborate on any Wen Development or Graphic Designing Ideas
+- 👯 I’m looking to collaborate on any Web Development or Graphic Designing Ideas
 - 🤔 I’m looking for help with Firebase knowledge
 - 💬 Ask me about anything, I will be happy to help
 - 📫 How to reach me: [@abhishek-sinha](https://www.linkedin.com/in/abhishek-sinha-5007bb169/)

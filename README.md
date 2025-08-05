@@ -13,7 +13,9 @@
 </p>
 
 
-Hello, I am [Abhishek Sinha](https://abhishek-sinha.netlify.app/) :relaxed:, a Full stack Developer and Graphic Designer. I am a third year student and currently pursuing B.tech in Computer Science and Engineering from Lovely Professional University. I Enjoy Designing and Developing applications. When I am not coding or pushing pixels, you will find me watching series, reading or going through documentary on cosmology.
+Hello, I am [Abhishek Sinha](https://abhishek-sinha.netlify.app/) :relaxed:, a DevOps Engineer with 3 years of IT experience, including 2 years in DevOps and 1 year in Monitoring & Incident Management. Worked closely with the Microsoft team to support the Renault-Nissan Alliance (RNA) on Microsoft Connected Vehicle Platform (MCVP). Recognized for developing impactful automations that reduced manual effort and human error. Early experience in IoT and AI through hands-on internship work.
+
+
 
 **Let's talk about me:**
 

@@ -4,7 +4,7 @@
 
 DevOps Engineer with 4 years of professional experience in Azure cloud automation, CI/CD pipeline management, Infrastructure as Code (Terraform, ARM, Bicep), observability, and production support.
 
-Currently working at Bosch Global Software Technologies, supporting enterprise-scale cloud platforms for the Renault-Nissan Alliance (RNA) in collaboration with Microsoft teams. Passionate about automating operational workflows, improving deployment reliability, and building scalable cloud solutions.
+Currently working at Bosch Mobility, developing the Virtualization Hub (vHub) platform and contributing to cloud infrastructure, DevOps automation, and platform engineering initiatives. Experienced in building scalable cloud solutions, automating operational workflows, and improving deployment reliability. Previously worked closely with Microsoft teams supporting the Renault-Nissan Alliance (RNA) on enterprise-scale cloud platforms.
 
 ---
 

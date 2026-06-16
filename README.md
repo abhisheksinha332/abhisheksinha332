@@ -2,7 +2,7 @@
 
 ### Azure DevOps Engineer | Cloud Automation | Infrastructure as Code | CI/CD
 
-DevOps Engineer with 3+ years of professional experience in Azure cloud automation, CI/CD pipeline management, Infrastructure as Code (Terraform, ARM, Bicep), observability, and production support.
+DevOps Engineer with 4 years of professional experience in Azure cloud automation, CI/CD pipeline management, Infrastructure as Code (Terraform, ARM, Bicep), observability, and production support.
 
 Currently working at Bosch Global Software Technologies, supporting enterprise-scale cloud platforms for the Renault-Nissan Alliance (RNA) in collaboration with Microsoft teams. Passionate about automating operational workflows, improving deployment reliability, and building scalable cloud solutions.
 

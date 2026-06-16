@@ -1,53 +1,129 @@
-### Hi there 👋
+# Hi there 👋 I'm Abhishek Sinha
 
-## ✉️ Find me on:
+### Azure DevOps Engineer | Cloud Automation | Infrastructure as Code | CI/CD
 
- 
-<p>
-   <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" width="35"  style=" margin-right:20px"></a>
-  <a href="https://twitter.com/home" target="_blank" rel="noopener noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.flaticon.com%2Ficons%2Fpng%2F512%2F23%2F23931.png&f=1&nofb=1" alt="twitter" width="35"  style="vertical-align:top; margin:15px"></a>
-  <a href="https://www.instagram.com/_abhishek_sinha/" target="_blank" rel="noopener noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FShare%2Ficon%2Fwin8%2FLogos%2Finstagram_new1600.png&f=1&nofb=1" alt="instagram" width="35"  style="vertical-align:top; margin:8px"></a>
-  <a href=https://www.behance.net/abhisheksinha8" target="_blank" rel="noopener noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Fpicons-social%2F57%2F77-behance-512.png&f=1&nofb=1" alt="behance" width="35"  style="vertical-align:top; margin:8px"></a>
-  <a href=https://github.com/abhisheksinha332" target="_blank" rel="noopener noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.afterdawn.fi%2Fv3%2Fnews%2Foriginal%2Fgithub-logo.png&f=1&nofb=1" alt="github" width="35"  style="vertical-align:top; margin:8px"></a>
-  
+DevOps Engineer with 3+ years of professional experience in Azure cloud automation, CI/CD pipeline management, Infrastructure as Code (Terraform, ARM, Bicep), observability, and production support.
+
+Currently working at Bosch Global Software Technologies, supporting enterprise-scale cloud platforms for the Renault-Nissan Alliance (RNA) in collaboration with Microsoft teams. Passionate about automating operational workflows, improving deployment reliability, and building scalable cloud solutions.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhishek-sinha-5007bb169/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" width="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/abhisheksinha332" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" width="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_abhishek_sinha/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" width="30"/>
+  </a>
 </p>
 
+---
 
-Hello, I am [Abhishek Sinha](https://abhishek-sinha.netlify.app/) :relaxed:, a DevOps Engineer with 4 years of IT experience, including 3 years in DevOps and 1 year in Monitoring & Incident Management. Worked closely with the Microsoft team to support the Renault-Nissan Alliance (RNA) on Microsoft Connected Vehicle Platform (MCVP). Recognized for developing impactful automations that reduced manual effort and human error. Early experience in IoT and AI through hands-on internship work.
+## 🚀 Key Highlights
 
+- ⚙️ Built **20+ automation solutions** using PowerShell, Azure Automation, Azure DevOps, and Power Platform technologies
+- ☁️ Experienced in **Azure Cloud, AWS, Terraform, Azure DevOps, Azure Key Vault, Docker, and Nginx**
+- 🔄 Automated certificate lifecycle management, reducing **manual effort by 60%**
+- 🎯 Contributed to **100% SLA fulfillment** through monitoring, automation, and incident management initiatives
+- 📊 Developed Power BI dashboards for SLA tracking, operational reporting, and team performance monitoring
+- 🏆 Awarded the **"Geek Award"** for technical excellence and recognized multiple times for impactful automation initiatives
 
+---
 
-**Let's talk about me:**
+## 💼 Current Focus
 
-- 🔭 I’m currently working as Software Enginner in Bosch Global Software Technologies
-- 🌱 I have keen Interest in MERN Stack.
-- 👯 I’m looking to collaborate on any Web Development or Graphic Designing Ideas
-- 🤔 I’m looking for help with Firebase knowledge
-- 💬 Ask me about anything, I will be happy to help
-- 📫 How to reach me: [@abhishek-sinha](https://www.linkedin.com/in/abhishek-sinha-5007bb169/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: The original Xbox had sound snippet of real space missions.
-- 📝 [Resume](https://abhishek-sinha.netlify.app/assets/doc/abhishek-resume.pdf)
+- Azure DevOps & GitHub Actions
+- Infrastructure as Code (Terraform, ARM, Bicep)
+- Docker & Kubernetes
+- Azure Automation & PowerShell
+- Azure Monitor & Log Analytics
+- Cloud Architecture & Platform Engineering
+- React.js & Python Development
 
+---
 
-## Languages and Tools:
-<p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="35"  style="vertical-align:top; margin:15px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="35"  style="vertical-align:top; margin:8px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" width="35"  style="vertical-align:top; margin:8px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="sql" width="35"  style="vertical-align:top; margin:8px">
- 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" alt="html" width="35"  style="vertical-align:top; margin:15px">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.lifewire.com%2Fthmb%2Fs9kfBeuaF14VAGgE-SjDB-L0ZDs%3D%2F768x0%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2Fcss3-57b597e85f9b58b5c2b338de.png&f=1&nofb=1" alt="css" width="35"  style="vertical-align:top; margin:8px">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fqph.fs.quoracdn.net%2Fmain-qimg-48b7a3d8958565e7aa3ad4dbf2312770&f=1&nofb=1" alt="java" width="35"  style="vertical-align:top; margin:8px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="35"  style="vertical-align:top; margin:8px">
- </p>
- 
- 
- ## 📈My Github Stats:
+## 💬 Ask Me About
 
- ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheksinha332&show_icons=true&theme=radical)
+```yaml
+Cloud:
+  - Azure
+  - AWS
 
- ## 📊Most Used Languages:
+DevOps:
+  - Azure DevOps
+  - GitHub Actions
+  - CI/CD
+  - Release Management
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksinha332&layout=compact)](https://github.com/abhisheksinha332/github-readme-stats)
+Infrastructure as Code:
+  - Terraform
+  - ARM Templates
+  - Bicep
+
+Containers:
+  - Docker
+  - Kubernetes
+  - Nginx
+
+Automation:
+  - PowerShell
+  - Azure Automation
+  - Power Automate
+
+Monitoring:
+  - Azure Monitor
+  - Log Analytics
+  - Azure Functions
+
+Development:
+  - Python
+  - React.js
+  - REST APIs
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40"/>
+</p>
+
+---
+
+## 🎓 Certifications
+
+- Microsoft Certified: Azure Administrator Associate (**AZ-104**)
+- Microsoft Certified: Azure Fundamentals (**AZ-900**)
+
+---
+
+## 📈 GitHub Stats
+
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhisheksinha332&show_icons=true&theme=radical)
+
+---
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksinha332&layout=compact&theme=radical)
+
+---
+
+## ⚡ Fun Fact
+
+I started my career building an AI-powered **Smart Mirror** using **Natural Language Processing (NLP)** and **Computer Vision** before transitioning into **Cloud Engineering and DevOps**.
